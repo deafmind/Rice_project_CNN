@@ -1,0 +1,5 @@
+.new_venv
+data
+pyproject.toml
+.python-version
+best_*
